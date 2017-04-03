@@ -1,0 +1,1 @@
+"./GUI.obj" "./SDCS_beta.obj" "./TimeOut.obj" "./msp432_startup_ccs.obj" "./printf.obj" "./wrappedI2C/wrappedi2c.obj" "./RFID/RC522-multi.obj" "./OLEDlibrary/OLED.obj" "./GaugeSensor/GaugeSensor.obj" "./GaugeSensor/RingBuffer.obj" "./CAN/EDCTUComm.obj" "./CAN/mcp2515.obj" "../msp432p401r.cmd" "../msp432p4xx_driverlib.lib" -l"libc.a" 
